@@ -5,6 +5,7 @@ public class Player : MonoBehaviour
     public float moveSpeed = 5f;
     private Animator animator;
 
+
     private string stand = "StandDown"; //player character standing downwards at beginning of game
     private string walk = "";
 
